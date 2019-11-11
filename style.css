@@ -1,0 +1,28 @@
+h1{font-family: 'Comfortaa', cursive;
+	color:black;
+background-color: #B08EA2;
+font-size: 85px;
+text-align: center;}
+body{
+	background-color:#A9FFF7;}
+h2{
+	color:yellow;}
+ol{font-family: 'Fascinate Inline', cursive;}
+p{font-family: 'Rajdhani', sans-serif;
+font-size: 25px;}
+div#big{
+	margin: 100px;}
+button {
+  background-color: #f44336;
+  border: red;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: 	;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+}
+button:hover {
+	background-color: blue;
+}
